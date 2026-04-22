@@ -28,7 +28,7 @@ The script is designed for **Linux-based systems** (optimized for Kali Linux, Pa
 
 ### 1. Clone and Prepare
 ```bash
-git clone https://github.com/your-repo/chu-mantar-chu.git
+git clone https://github.com/Pr0fessorSnApe/chu-mantar-chu.git
 cd chu-mantar-chu
 chmod +x chu-mantar-chu.sh
 ```
